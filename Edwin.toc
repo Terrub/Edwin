@@ -1,0 +1,9 @@
+## Interface: 11200
+## Title: |cFF22FF22Edwin|r
+## Notes: Your friend in accumulating wealth... it does auction stuff
+## Author: Terrub le Programmer
+## Version: 0.0.1
+## Dependencies:
+## SavedVariables: EdwinDB
+
+Edwin.lua
